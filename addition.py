@@ -1,6 +1,8 @@
-def add(a,b):
-  return a+b
-if _name=="main_":
-  x=10
-  y=20
-  print("Sum:",add(x,y))
+def add(a, b):
+    return a + b
+
+if __name__ == "__main__":
+    x = 10
+    y = 20
+    print("Sum:", add(x, y))
+
